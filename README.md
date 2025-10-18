@@ -1,20 +1,20 @@
-# Reverse Engineering Analysis and Lab
+# Reverse Engineering Lab and Analysis
 
-A hands-on reverse engineering project focused on discovering a hidden password from the provided executable file reverse-ex. This project explores techniques used to analyze compiled programs and understand their internal logic.
+An interactive reverse engineering assignment based on finding an encrypted password within the given executable file reverse-ex. The assignment focuses on methods practiced during the analysis of compiled code and being aware of how such programs work internally.
 
 # How It Works
 
-The file reverse-ex is an executable that contains a hidden password within its code. The task is to analyze the file and determine how the password is stored or generated.
+The reverse-ex file is an executable file that contains an encrypted password inside the code. The objective is to reverse-engineer the file and figure out how the password is stored or computed.
 
-A combination of static and dynamic techniques will be used to find the password.
+A blend of static and dynamic methods will be employed to discover the password.
 
 # Features
 
-* Safe, standalone executable provided for analysis
-* Combines static and dynamic reverse-engineering techniques
-* Focus on step-by-step problem solving and documentation
-* Builds understanding of how compiled programs process data
-* Includes a written report with screenshots and findings
+* Provided with a secure, standalone executable for analysis
+* Implements a blend of static and dynamic reverse-engineering methods
+* Emphasis on step-by-step problem-solving and documentation
+* Increases understanding of how compiled code handles data
+* Offers a written report with pictures and results
 
 # Tools Used
 * IDA Free
@@ -23,10 +23,10 @@ A combination of static and dynamic techniques will be used to find the password
 
 # Deliverables
 
-* A 16-page report including:
+* A 16-page report with:
 
-  * Tools and methods used
-  * Challenges faced
+  * Methods and tools employed
+  * Problems encountered
   * What was learned
-  * Final conclusions and the discovered password
-  * Supporting screenshots, tables, and diagrams 
+  * Concluding remarks and the password learned
+  * Screenshot illustrating tables and diagrams
