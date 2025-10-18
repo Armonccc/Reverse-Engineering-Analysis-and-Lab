@@ -1,4 +1,3 @@
-You said:
 # Reverse Engineering Analysis and Lab
 
 A hands-on reverse engineering project focused on discovering a hidden password from the provided executable file reverse-ex. This project explores techniques used to analyze compiled programs and understand their internal logic.
