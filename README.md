@@ -4,19 +4,20 @@ An interactive reverse engineering assignment based on finding an encrypted pass
 
 # How It Works
 
-The reverse-ex file is an executable file that contains an encrypted password inside the code. The objective is to reverse-engineer the file and figure out how the password is stored or computed.
+The reverse-ex file is an executable file that contains an encrypted password inside the code. The objective is to reverse-engineer the file and discover the secret password.
 
-A blend of static and dynamic methods will be employed to discover the password.
+A blend of static and dynamic methods is employed to discover the password.
 
 # Features
 
 * Provided with a secure, standalone executable for analysis
-* Implements a blend of static and dynamic reverse-engineering methods
+* Implementation of static and dynamic reverse-engineering methods
 * Emphasis on step-by-step problem-solving and documentation
 * Increases understanding of how compiled code handles data
 * Offers a written report with pictures and results
 
 # Tools Used
+
 * IDA Free
 * GDB
 * VirtualBox
@@ -29,4 +30,4 @@ A blend of static and dynamic methods will be employed to discover the password.
   * Problems encountered
   * What was learned
   * Concluding remarks and the password learned
-  * Screenshot illustrating tables and diagrams
+  * Screenshots illustrating tables and diagrams
